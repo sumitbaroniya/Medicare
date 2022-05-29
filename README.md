@@ -21,6 +21,7 @@ Here is the Azure service resource in the Azure Portal:
 Here are some screenshots of the website:
 
 Home page
+
 ![home](https://user-images.githubusercontent.com/75536160/170851662-5085ce07-4d15-4703-8e31-9fe349e26ada.PNG)
 
 Gallery page
