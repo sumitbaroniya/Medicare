@@ -15,7 +15,9 @@ https://youtu.be/eCC60jCFeJs
 Description:
 Our System wants to directly connect doctors with patients. By this system, patient will able to book appointment and able to know about all the details of a particular hospital i.e. how many beds are available, how many doctors are at work etc are available in this website. Due to this, we might be able to save a precious life of a patient in case of emergency also. Our website contains home page, about us page which contains details of hospital, doctor page which contains details of doctors, registration page, login page and book appointment page through which any user or patient can able to book their appointments with doctors to take advice or can take help from doctor online easily.
 
+Azure Technologies Used: Static Web Apps and Azure App Service
 Technologies used in Project: Html, css, bootstrap and jquery
+![web app](https://user-images.githubusercontent.com/75536160/170864286-5c4cce1f-9436-4552-bc5b-cd70481c7639.PNG)
 
 Here is the Azure service resource in the Azure Portal:
 ![Screenshot (5231)](https://user-images.githubusercontent.com/75536160/170851592-457622cf-41b0-42c9-8fc6-311088a58c7b.png)
