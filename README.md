@@ -4,12 +4,15 @@ This is my project for the Future Ready Talent Internship.
 
 Project Title: Medicare 
 
+Problem Statement: As every second is important for human alive when he is suffers from heath issue so to save the life of every patient we have this medicare website systemIn this, patients can book appointment with doctor online easily.The details of the existing patients are retrieved by the system.
+
 Here is the Project Link:
 https://orange-pebble-01cf55610.1.azurestaticapps.net/
 
 Here is the Project Video demo url:
 https://youtu.be/eCC60jCFeJs
 
+Description:
 Our System wants to directly connect doctors with patients. By this system, patient will able to book appointment and able to know about all the details of a particular hospital i.e. how many beds are available, how many doctors are at work etc are available in this website. Due to this, we might be able to save a precious life of a patient in case of emergency also. Our website contains home page, about us page which contains details of hospital, doctor page which contains details of doctors, registration page, login page and book appointment page through which any user or patient can able to book their appointments with doctors to take advice or can take help from doctor online easily.
 
 Here is the Azure service resource in the Azure Portal:
